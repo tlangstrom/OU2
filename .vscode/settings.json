@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "calc_frequency.h": "c",
+        "huffman_trie.h": "c"
+    }
+}
